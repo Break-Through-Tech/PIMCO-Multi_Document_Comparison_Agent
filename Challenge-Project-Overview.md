@@ -26,15 +26,16 @@
 |-------|--------|-------|
 | Python Compatibility | 🟢 | The tech stack is heavily based on Python libraries (LangChain, Pandas, etc.), ensuring compatibility with the student skill set. |
 | Data Readiness | 🟢 | The data consists of publicly available ABS deal documents and is estimated at under 1GB, indicating it is manageable and ready to use without extensive cleaning. |
-| Resource Check | 🟢 | No specialized hardware or proprietary software is mentioned, making it accessible for students. |
+| Resource Check | 🟡 | No specialized hardware or proprietary software is mentioned, making it accessible for students. |
 
 **Student Fit Score:** 8/10  
 **Technical Depth Score:** 7/10  
 **Overall Recommendation:** REVISE
 
 **Advisor Feedback Draft:**
-The project leverages relevant technologies in a meaningful way, allowing students to apply both ML and software engineering principles. To enhance clarity for the fellows, it may be beneficial to provide more context on the specific comparison dimensions and outline potential challenges related to the reasoning agent. Lastly, ensure the expected deliverables are clearly defined and feasible within the semester timeline.
+The project leverages relevant technologies in a meaningful way, allowing students to apply both ML and software engineering principles. To enhance clarity for the fellows, it may be beneficial to provide more context on the specific dimensions of comparison and to outline potential challenges related to the reasoning agent. Lastly, ensure the expected deliverables are clearly defined and feasible within the semester timeline.
 
+Additional feedback here
 
 ---
 
