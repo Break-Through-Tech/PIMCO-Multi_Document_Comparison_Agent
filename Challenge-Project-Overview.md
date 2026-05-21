@@ -35,7 +35,7 @@
 **Advisor Feedback Draft:**
 The project leverages relevant technologies in a meaningful way, allowing students to apply both ML and software engineering principles. To enhance clarity for the fellows, it may be beneficial to provide more context on the specific dimensions of comparison and to outline potential challenges related to the reasoning agent. Lastly, ensure the expected deliverables are clearly defined and feasible within the semester timeline.
 
-Additional feedback here
+[Detail SME Project Feedback](./SME_Feedback)
 
 ---
 
